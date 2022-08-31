@@ -26,3 +26,5 @@ Back to the lab again, yo, this whole rhapsody
 Better go capture this moment and hope it don't pass him
 
 The first commit in feature branch
+
+the second commit in feature branch
